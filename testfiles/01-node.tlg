@@ -1,0 +1,826 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+Completed box being shipped out [1]
+\vbox(633.0+0.0)x407.0, direction TLT
+.\glue 16.0
+.\vbox(617.0+0.0)x345.0, shifted 62.0, direction TLT
+..\vbox(12.0+0.0)x345.0, glue set 12.0fil, direction TLT
+...\glue 0.0 plus 1.0fil
+...\hbox(0.0+0.0)x345.0, direction TLT
+....\hbox(0.0+0.0)x345.0, direction TLT
+..\glue 25.0
+..\glue(\lineskip) 0.0
+..\vbox(550.0+0.0)x284.52756, glue set 431.95386fil, direction TLT
+...\write-{}
+...\write1{\babel@aux{english}{}}
+...\glue(\topskip) 3.06
+...\hbox(6.94+2.06)x284.52756, glue set 0.08813, direction TLT
+....\localpar
+.....\localinterlinepenalty=0
+.....\localbrokenpenalty=0
+.....\localleftbox=null
+.....\localrightbox=null
+....\hbox(0.0+0.0)x15.0, direction TLT
+....\TU/LatinModernRoman(0)/m/n/10 H
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 ,
+....\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 m
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 x
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 w
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 m
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 g
+....\TU/LatinModernRoman(0)/m/n/10 .
+....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+....\TU/LatinModernRoman(0)/m/n/10 T
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 x
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\rightskip) 0.0
+...\penalty 150
+...\glue(\baselineskip) 2.89
+...\hbox(7.05+2.05)x284.52756, glue set 0.11922, direction TLT
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 w
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 w
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 p
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 x
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 w
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\kern0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 k
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 k
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 p
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 c
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 .
+....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+....\TU/LatinModernRoman(0)/m/n/10 I
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 y
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\rightskip) 0.0
+...\glue(\baselineskip) 2.9
+...\hbox(7.05+2.06)x284.52756, glue set 0.16492, direction TLT
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 x
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 ,
+....\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+....\TU/LatinModernRoman(0)/m/n/10 y
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 w
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 g
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 m
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 .
+....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+....\TU/LatinModernRoman(0)/m/n/10 R
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 y
+....\TU/LatinModernRoman(0)/m/n/10 ?
+....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+....\TU/LatinModernRoman(0)/m/n/10 I
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\discretionary (penalty 50)
+....\glue(\rightskip) 0.0
+...\penalty 100
+...\glue(\baselineskip) 2.89
+...\hbox(7.05+0.11)x284.52756, glue set - 0.63538, direction TLT
+....\TU/LatinModernRoman(0)/m/n/10 m
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 ?
+....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+....\TU/LatinModernRoman(0)/m/n/10 I
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 f
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+.....> \TU/LatinModernRoman(0)/m/n/10 f
+.....= \TU/LatinModernRoman(0)/m/n/10 ﬀ
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 c
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 b
+....\kern0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 w
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 x
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 m
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\rightskip) 0.0
+...\glue(\baselineskip) 4.73
+...\hbox(7.16+2.06)x284.52756, glue set - 0.0323, direction TLT
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 k
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 “
+....\TU/LatinModernRoman(0)/m/n/10 H
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 g
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 b
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 ”
+....\TU/LatinModernRoman(0)/m/n/10 ?
+....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+....\TU/LatinModernRoman(0)/m/n/10 K
+....\TU/LatinModernRoman(0)/m/n/10 j
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 –
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 !
+....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+....\TU/LatinModernRoman(0)/m/n/10 A
+....\glue(\spaceskip) 3.33 plus 1.66331 minus 1.1111
+....\TU/LatinModernRoman(0)/m/n/10 b
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 x
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 k
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\rightskip) 0.0
+...\glue(\baselineskip) 2.89
+...\hbox(7.05+2.06)x284.52756, glue set - 0.1418, direction TLT
+....\TU/LatinModernRoman(0)/m/n/10 g
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 v
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 y
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 m
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 b
+....\kern0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 c
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 ,
+....\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 w
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\rightskip) 0.0
+...\glue(\baselineskip) 2.89
+...\hbox(7.05+1.94)x284.52756, glue set - 0.76918, direction TLT
+....\TU/LatinModernRoman(0)/m/n/10 w
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 m
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 p
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\kern0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 k
+....\TU/LatinModernRoman(0)/m/n/10 .
+....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+....\TU/LatinModernRoman(0)/m/n/10 T
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 x
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 c
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+.....= \kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\glue(\rightskip) 0.0
+...\glue(\baselineskip) 3.01
+...\hbox(7.05+2.06)x284.52756, glue set 0.04843, direction TLT
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 p
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 b
+....\kern0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 b
+....\kern0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 w
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 g
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\glue(\rightskip) 0.0
+...\glue(\baselineskip) 2.89
+...\hbox(7.05+2.06)x284.52756, glue set 0.10959, direction TLT
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 g
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 g
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 .
+....\glue(\spaceskip) 4.44 plus 4.99498 minus 0.37
+....\TU/LatinModernRoman(0)/m/n/10 T
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 p
+....\kern0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 c
+....\TU/LatinModernRoman(0)/m/n/10 i
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 c
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+.....= \kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 ,
+....\glue(\spaceskip) 3.33 plus 2.08124 minus 0.888
+....\TU/LatinModernRoman(0)/m/n/10 b
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\TU/LatinModernRoman(0)/m/n/10 g
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 f
+....\glue(\rightskip) 0.0
+...\penalty 150
+...\glue(\baselineskip) 2.89
+...\hbox(7.05+2.06)x284.52756, glue set - 0.35612, direction TLT
+....\TU/LatinModernRoman(0)/m/n/10 w
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 r
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 s
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 o
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 d
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 m
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 c
+....\kern-0.28 (font)
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 t
+....\TU/LatinModernRoman(0)/m/n/10 h
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\TU/LatinModernRoman(0)/m/n/10 l
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 n
+....\discretionary (penalty 50)
+.....< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+....\TU/LatinModernRoman(0)/m/n/10 g
+....\TU/LatinModernRoman(0)/m/n/10 u
+....\TU/LatinModernRoman(0)/m/n/10 a
+....\TU/LatinModernRoman(0)/m/n/10 g
+....\TU/LatinModernRoman(0)/m/n/10 e
+....\TU/LatinModernRoman(0)/m/n/10 .
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\hbox(6.77+2.06)x36.98999, direction TLT
+.....\TU/LatinModernRoman(0)/m/n/10 T
+.....\kern-0.83 (font)
+.....\TU/LatinModernRoman(0)/m/n/10 r
+.....\TU/LatinModernRoman(0)/m/n/10 a
+.....\TU/LatinModernRoman(0)/m/n/10 i
+.....\TU/LatinModernRoman(0)/m/n/10 n
+.....\discretionary (penalty 50)
+......< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+.....\TU/LatinModernRoman(0)/m/n/10 i
+.....\TU/LatinModernRoman(0)/m/n/10 n
+.....\TU/LatinModernRoman(0)/m/n/10 g
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\hbox(7.05+0.11)x31.67, direction TLT
+.....\TU/LatinModernRoman(0)/m/n/10 a
+.....\TU/LatinModernRoman(0)/m/n/10 b
+.....\kern0.28 (font)
+.....\TU/LatinModernRoman(0)/m/n/10 c
+.....\discretionary (penalty 50)
+......< \TU/LatinModernRoman(0)/m/n/10 -
+......= \TU/LatinModernRoman(0)/m/n/10 -
+.....\TU/LatinModernRoman(0)/m/n/10 d
+.....\TU/LatinModernRoman(0)/m/n/10 e
+.....\TU/LatinModernRoman(0)/m/n/10 f
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\hbox(7.05+0.11)x28.34, direction TLT
+.....\TU/LatinModernRoman(0)/m/n/10 a
+.....\TU/LatinModernRoman(0)/m/n/10 b
+.....\kern0.28 (font)
+.....\TU/LatinModernRoman(0)/m/n/10 c
+.....\discretionary (penalty 50)
+......< \TU/LatinModernRoman(0)/m/n/10 ^^ad
+.....\TU/LatinModernRoman(0)/m/n/10 d
+.....\TU/LatinModernRoman(0)/m/n/10 e
+.....\TU/LatinModernRoman(0)/m/n/10 f
+....\glue(\spaceskip) 3.33 plus 1.665 minus 1.11
+....\hbox(7.05+0.11)x28.34, direction TLT
+.....\TU/LatinModernRoman(0)/m/n/10 a
+.....\TU/LatinModernRoman(0)/m/n/10 b
+.....\kern0.28 (font)
+.....\TU/LatinModernRoman(0)/m/n/10 c
+.....\discretionary (penalty 50)
+......< \TU/LatinModernRoman(0)/m/n/10 -
+......> \TU/LatinModernRoman(0)/m/n/10 -
+.....\TU/LatinModernRoman(0)/m/n/10 d
+.....\TU/LatinModernRoman(0)/m/n/10 e
+.....\TU/LatinModernRoman(0)/m/n/10 f
+....\penalty 10000
+....\glue(\parfillskip) 0.0 plus 1.0fil
+....\glue(\rightskip) 0.0
+...\glue -2.06
+...\glue 0.0 plus 1.0fil
+...\glue 0.0
+...\glue 0.0 plus 0.0001fil
+..\glue(\baselineskip) 23.34
+..\hbox(6.66+0.0)x345.0, direction TLT
+...\hbox(6.66+0.0)x345.0, glue set 170.0fil, direction TLT
+....\glue 0.0 plus 1.0fil
+....\TU/LatinModernRoman(0)/m/n/10 1
+....\glue 0.0 plus 1.0fil

@@ -1,0 +1,20 @@
+\input{regression-test}
+\documentclass[english]{article}
+\usepackage{babel}
+\usepackage{blindtext}
+\directlua {
+  require'rewrite-softhyphen'
+}
+\usepackage{fontspec}
+\setmainfont{Latin Modern Roman}[Renderer=HarfBuzz]
+\begin{document}
+\hsize=10cm
+\START
+\showoutput
+\blindtext
+\hbox{Training}
+\hbox{abc-def}
+\hbox{abc\-def}
+\hbox{abc\discretionary{-}{-}{}def}
+\clearpage
+\END
